@@ -1,0 +1,11 @@
+email: skuch@upenn.edu
+fullname: 'Scott M Kuchinski'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$ADVnNzDawDziGpX5EAJZkuje7NnQRn.9P1Rmn1YEJLLJ3NiqHtz0O

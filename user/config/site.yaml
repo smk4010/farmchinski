@@ -1,0 +1,35 @@
+title: 'Farmchinski Wedding'
+default_lang: en
+author:
+  name: Grav
+  email: joe@test.com
+  url: 'http://getgrav.org/'
+  gravatar: contact@getgrav.org
+  description: 'Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
+taxonomies:
+  - category
+  - tag
+  - month
+metadata:
+  description: 'Farmchinski Wedding 2017'
+summary:
+  enabled: true
+  format: short
+  size: 100
+  delimiter: '==='
+  striptags: true
+blog:
+  route: ''
+description: ''
+global_featured_image: featured.jpg
+social:
+slider:
+  -
+    image: newmain.jpg
+    title: ''
+    url: '#'
+menu:
+  -
+    url: error
+    text: 'Error Page'
+copyright: 'Designed and developed by <strong>The Groom Himself</strong>. Content provided by <strong>Bridezilla Herself.</strong>'
